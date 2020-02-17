@@ -2,8 +2,11 @@
 This is an individiaul submit of Capstone project.
 
 Talat Buyukakin
+
 talat.buyukakin@tofas.com.tr
+
 talatb.akin@hotmail.com
+
 GitHub: TBuyukakin
 
 ## Modules
